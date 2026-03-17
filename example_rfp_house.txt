@@ -1,0 +1,295 @@
+REQUEST FOR PROPOSAL (RFP)
+Construction of a Single-Family Residential Home
+Reference: RFP-2026-RESIDENTIAL-0042
+Issue Date: March 17, 2026
+Submission Deadline: April 30, 2026
+
+════════════════════════════════════════════════════════════
+SECTION 1 — PROJECT OVERVIEW
+════════════════════════════════════════════════════════════
+
+1.1 Issuing Party
+The Beaumont Family ("Client") hereby issues this Request for Proposal for the
+design and construction of a custom single-family residence located at:
+
+    Lot 14, Maplewood Estates
+    4820 Ridgecrest Drive
+    Austin, Texas 78735
+
+The selected general contractor will be responsible for the complete construction
+of the home in accordance with the specifications outlined in this document,
+applicable local building codes, and the State of Texas residential construction
+standards.
+
+1.2 Project Summary
+The Client requires a modern farmhouse-style single-family home of approximately
+3,200 square feet of conditioned living space, with an attached three-car garage.
+The home must be designed to accommodate a family of five, including aging-in-place
+features for one elderly parent. Construction must be completed within 14 months
+of contract execution.
+
+════════════════════════════════════════════════════════════
+SECTION 2 — SITE & LOT REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+2.1 Lot Characteristics
+The lot measures 0.75 acres (32,670 sq ft) and is predominantly flat with a
+gentle 2% grade sloping toward the rear. Contractors must perform a geotechnical
+survey prior to foundation work and submit results to the Client within 30 days
+of contract signing.
+
+2.2 Setbacks and Zoning
+All structures must comply with Maplewood Estates HOA setback requirements:
+- Front setback: minimum 30 feet from the curb
+- Rear setback: minimum 25 feet from the rear property line
+- Side setbacks: minimum 10 feet on each side
+- Maximum lot coverage: 40% of total lot area
+- Maximum building height: 35 feet above grade
+
+2.3 Site Preparation
+The contractor shall be responsible for:
+- Clearing and grubbing the lot of all existing vegetation within the building envelope
+- Grading and compaction per geotechnical recommendations
+- Installation of erosion control measures during construction
+- Connection to municipal water, sewer, and electrical utilities at the street
+
+════════════════════════════════════════════════════════════
+SECTION 3 — ARCHITECTURAL & STRUCTURAL REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+3.1 Architectural Style
+The home shall follow a modern farmhouse aesthetic featuring:
+- Board-and-batten siding in white or off-white (Benjamin Moore White Dove or equivalent)
+- Black aluminum-clad windows and exterior doors
+- Metal standing-seam roof in charcoal gray
+- Covered front porch spanning the full width of the facade (minimum 8 feet deep)
+- Covered rear patio of at least 400 square feet
+
+3.2 Foundation
+- Engineered post-tension slab-on-grade foundation
+- Minimum slab thickness: 5 inches
+- Foundation design must be stamped by a licensed structural engineer registered in Texas
+- All foundation work must comply with IRC 2021 and local Austin amendments
+
+3.3 Framing
+- Exterior walls: 2x6 wood framing at 16 inches on center
+- Interior load-bearing walls: 2x4 minimum, per structural drawings
+- Roof framing: engineered roof trusses at 24 inches on center
+- All lumber must meet or exceed #2 Southern Yellow Pine grading
+
+3.4 Exterior Envelope
+- Continuous house wrap (Tyvek HomeWrap or equivalent) under all siding
+- Minimum R-20 cavity insulation in all exterior walls
+- Minimum R-49 blown insulation in attic
+- Minimum R-10 under-slab insulation at perimeter
+- All windows and doors must be ENERGY STAR certified
+- Windows: double-pane, low-E glass, U-factor ≤ 0.30, SHGC ≤ 0.25
+
+════════════════════════════════════════════════════════════
+SECTION 4 — FLOOR PLAN REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+4.1 General Layout
+The home shall be a single-story design with the following program:
+
+    Ground Floor (approx. 3,200 sq ft conditioned):
+    - Open-concept great room (living + dining + kitchen): minimum 800 sq ft
+    - Primary bedroom suite: minimum 400 sq ft including en-suite bathroom
+    - Three additional bedrooms: minimum 150 sq ft each
+    - Two full guest bathrooms
+    - Dedicated home office: minimum 120 sq ft
+    - Laundry room: minimum 80 sq ft with utility sink
+    - Mud room / drop zone adjacent to garage entry
+    - Walk-in pantry adjacent to kitchen: minimum 60 sq ft
+    - Attached three-car garage: minimum 700 sq ft
+
+4.2 Ceiling Heights
+- Great room, kitchen, and foyer: minimum 12-foot ceilings
+- All other habitable rooms: minimum 9-foot ceilings
+- Garage: minimum 10-foot clear height to accommodate standard SUVs
+
+4.3 Accessibility (Aging-in-Place)
+One bedroom and one full bathroom must be fully ADA-accessible, including:
+- Zero-threshold shower with fold-down bench and grab bars
+- Wider doorways (minimum 36 inches clear) throughout the accessible wing
+- Lever-style door hardware throughout the accessible wing
+- Blocking installed in all bathroom walls for future grab bar installation
+- Single-story design with no steps between the garage and the accessible suite
+
+════════════════════════════════════════════════════════════
+SECTION 5 — MECHANICAL, ELECTRICAL & PLUMBING
+════════════════════════════════════════════════════════════
+
+5.1 HVAC
+- Two-zone high-efficiency central HVAC system (one zone per wing)
+- Minimum SEER2 rating: 18 for cooling, HSPF2 ≥ 9 for heating
+- Zoned programmable smart thermostats (Ecobee or equivalent) in each zone
+- Fresh air ventilation system (ERV) to meet ASHRAE 62.2 standards
+- All ductwork located within conditioned space; no ducts in unconditioned attic
+- Whole-house air filtration: MERV-13 minimum
+
+5.2 Plumbing
+- Tankless gas water heater with a minimum 199,000 BTU input and 0.95 EF rating
+- Recirculating hot water loop to all bathrooms and kitchen
+- Pre-plumb for water softener in utility room
+- Outdoor hose bibs: minimum 4 locations (front, rear, each side)
+- Irrigation stub-out at water meter for future landscape irrigation system
+- All supply lines: PEX-A with Uponor or equivalent manifold system
+
+5.3 Electrical
+- 400-amp main electrical service panel
+- Whole-house surge protection at the main panel
+- EV charging rough-in in garage: two dedicated 50-amp, 240V circuits with conduit
+- Solar-ready conduit from roof to electrical panel and utility room
+- USB-A and USB-C outlets in every bedroom, kitchen, and office
+- Smart lighting control wiring (Lutron Caseta compatible) throughout
+- Dedicated 20-amp circuits for all kitchen appliances
+- Whole-house generator transfer switch pre-wire (22kW minimum capacity)
+
+5.4 Low Voltage & Technology
+- Structured wiring panel in dedicated telecom closet
+- Cat-6A Ethernet drops in every room (minimum 2 per room, 4 in office)
+- Whole-home Wi-Fi access point rough-in (ceiling-mounted) in every room
+- Pre-wire for 5.1 surround sound in great room and primary bedroom
+- Video doorbell and smart lock pre-wire at front, rear, and garage doors
+- Whole-house security system rough-in with contacts on all windows and doors
+- Outdoor speakers pre-wire: front porch (2), rear patio (4)
+
+════════════════════════════════════════════════════════════
+SECTION 6 — INTERIOR FINISHES
+════════════════════════════════════════════════════════════
+
+6.1 Flooring
+- Great room, kitchen, hallways, office: 7.5-inch wide white oak engineered hardwood,
+  minimum 3mm wear layer, minimum AC4 rating
+- All bedrooms: same engineered hardwood (no carpet)
+- All bathrooms and laundry: large-format porcelain tile, minimum 24"x24"
+- Mud room: porcelain tile, slip-resistant rating R10 or better
+
+6.2 Kitchen
+- Custom or semi-custom cabinetry, full-overlay doors, soft-close hinges and drawer slides
+- Quartz countertops, minimum 1.5-inch thickness
+- Kitchen island: minimum 4 feet x 8 feet with seating for 4 on one side
+- Commercial-style 48-inch range (gas or dual-fuel) rough-in
+- Built-in refrigerator rough-in (36-inch cabinet depth)
+- Dishwasher: panel-ready rough-in
+- Farmhouse apron-front kitchen sink (36 inches minimum)
+- Pot filler rough-in above range
+- Under-cabinet lighting rough-in (LED)
+
+6.3 Primary Bathroom
+- Freestanding soaking tub
+- Walk-in shower: minimum 5 feet x 4 feet with frameless glass enclosure
+- Double vanity: minimum 72 inches wide
+- Private water closet with door
+- Heated tile floor (electric mat, client-supplied thermostat)
+- Linen closet within or directly adjacent to bathroom
+
+6.4 Interior Doors & Trim
+- Interior doors: solid-core, 8-foot tall, flat panel, painted white
+- All casing and base trim: 3.5-inch flat profile
+- Crown molding in great room, foyer, and primary suite only
+- Built-in bookshelves flanking fireplace in great room
+
+6.5 Fireplace
+- One gas fireplace in great room: minimum 48-inch linear burner
+- Full-height shiplap surround with floating wood mantle
+- Direct-vent gas with remote ignition
+
+════════════════════════════════════════════════════════════
+SECTION 7 — EXTERIOR FEATURES
+════════════════════════════════════════════════════════════
+
+7.1 Landscaping (Hardscape Only — Softscape by Owner)
+- Concrete driveway: minimum 18 feet wide, broom finish with expansion joints
+- Concrete front walkway from driveway to front porch
+- Rear patio: minimum 400 sq ft, stamped or pavers (owner to select pattern)
+- Gravel or decomposed granite perimeter drainage swale along foundation
+
+7.2 Garage
+- Three-car garage with two separate garage door openings:
+  one double-car bay (16 feet wide) and one single-car bay (9 feet wide)
+- LiftMaster 8500W or equivalent wall-mount operators, Wi-Fi enabled
+- Insulated garage doors, minimum R-12
+- Epoxy-ready concrete floor (contractor to provide flat, smooth finish)
+- Utility sink rough-in in garage
+
+7.3 Outdoor Living
+- Covered rear patio with ceiling fans (2 minimum) and outdoor-rated lighting
+- Natural gas stub-out at rear patio for future outdoor kitchen
+- 240V outlet on rear patio for future hot tub
+- Exterior outlets: minimum GFCI outlet every 20 feet around perimeter
+
+════════════════════════════════════════════════════════════
+SECTION 8 — SUSTAINABILITY & ENERGY REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+8.1 Energy Performance
+- The completed home must achieve a HERS Index Score of 50 or below
+- A third-party HERS rater must be engaged by the contractor at contractor's expense
+- Blower door test result: ≤ 2.0 ACH50
+
+8.2 Water Conservation
+- All toilets: maximum 1.28 GPF (WaterSense certified)
+- All faucets: maximum 1.5 GPM (WaterSense certified)
+- Shower heads: maximum 2.0 GPM
+
+8.3 Materials
+- All lumber from FSC-certified sources where available
+- No VOC paints and finishes (VOC limit: ≤ 50 g/L for interior flat paint)
+- Blown-in cellulose or fiberglass for attic insulation (no spray foam in attic)
+
+════════════════════════════════════════════════════════════
+SECTION 9 — PROJECT SCHEDULE & CONTRACTUAL REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+9.1 Schedule
+- Geotechnical survey and foundation permit: within 30 days of contract execution
+- Foundation complete: within 60 days of permit issuance
+- Framing complete: within 120 days of contract execution
+- Dry-in (roof and windows installed): within 150 days of contract execution
+- Certificate of occupancy: within 14 months of contract execution
+
+9.2 Warranty
+- Contractor must provide a minimum 1-year workmanship warranty on all labor
+- Structural warranty: 10 years per Texas Residential Construction Liability Act
+- All manufacturer warranties must be transferred to the Client at closing
+
+9.3 Insurance & Licensing
+- Contractor must hold a valid Texas residential contractor registration
+- General liability insurance: minimum $2,000,000 per occurrence
+- Workers' compensation insurance required for all on-site personnel
+- Proof of insurance must be provided before work commences
+
+9.4 Payment Terms
+- 10% deposit upon contract execution
+- Progress draws tied to completion of defined milestones (schedule to be agreed)
+- 5% retainage held until final punch list is cleared and CO is issued
+- All subcontractors must be paid within 30 days of general contractor receiving draw
+
+9.5 Permitting
+- Contractor is responsible for obtaining all necessary permits including:
+  building, electrical, plumbing, mechanical, and site permits
+- All permit fees are the responsibility of the contractor and must be included in bid
+- All inspections must be passed before proceeding to the next phase
+
+════════════════════════════════════════════════════════════
+SECTION 10 — PROPOSAL SUBMISSION REQUIREMENTS
+════════════════════════════════════════════════════════════
+
+Proposals must include:
+1. Fixed-price bid (no cost-plus bids will be accepted)
+2. Detailed scope-of-work breakdown by trade
+3. Proposed construction schedule with milestones
+4. List of proposed subcontractors and their license numbers
+5. Portfolio of at least three comparable completed projects
+6. Proof of insurance and contractor registration
+7. References from at least three recent clients
+
+Submit proposals electronically to: rfp@beaumont-family.com
+All questions must be submitted by April 15, 2026.
+The Client reserves the right to reject any or all proposals.
+
+════════════════════════════════════════════════════════════
+END OF DOCUMENT
+════════════════════════════════════════════════════════════
