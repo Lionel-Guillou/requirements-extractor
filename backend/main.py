@@ -102,7 +102,6 @@ async def extract_requirements(file: UploadFile = File(...)):
         with client.messages.stream(
             model="claude-opus-4-6",
             max_tokens=8192,
-            thinking={"type": "adaptive"},
             system=SYSTEM_PROMPT,
             messages=[
                 {
