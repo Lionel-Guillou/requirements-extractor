@@ -18,7 +18,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"], max_retries=5)
 
 SUPPORTED_TYPES = {
     "text/plain",
@@ -115,6 +115,10 @@ async def extract_requirements(file: UploadFile = File(...)):
         raise HTTPException(status_code=401, detail="Invalid Anthropic API key")
     except anthropic.RateLimitError:
         raise HTTPException(status_code=429, detail="Rate limit exceeded, please try again later")
+    except anthropic.APIStatusError as e:
+        if e.status_code == 529:
+            raise HTTPException(status_code=503, detail="Anthropic API is overloaded, please try again in a few moments")
+        raise HTTPException(status_code=502, detail=f"LLM API error: {e}")
     except anthropic.APIError as e:
         raise HTTPException(status_code=502, detail=f"LLM API error: {e}")
 
